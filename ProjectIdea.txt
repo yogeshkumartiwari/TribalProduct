@@ -1,0 +1,15 @@
+                               Sale of Tribal Products
+
+
+A major part of TRIFED’s efforts for enhancing tribal income providing support to marketing development activities. This includes procurement and marketing of handicrafts, handloom and organic / natural produce from tribal artisans from different tribal regions of our country.
+
+
+Functionality--
+
+1) Add new product
+2) set Price
+3) Add image or video of product
+4) sell the product
+5)product category
+
+
